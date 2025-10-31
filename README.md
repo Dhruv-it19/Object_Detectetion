@@ -118,9 +118,4 @@ Bounding boxes will appear around detected objects with their labels and confide
 
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute it.
 
----
 
-## 👨‍💻 Author
-
-**Dhruvit Loliyaniya**  
-💡 _“Building AI-powered intelligent systems for real-world use.”_
