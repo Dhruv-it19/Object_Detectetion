@@ -1,0 +1,6 @@
+imutils
+numpy
+opencv-python
+
+# if you plan to use GPU or advanced DNN features
+# opencv-contrib-python
